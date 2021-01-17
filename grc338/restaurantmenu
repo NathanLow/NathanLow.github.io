@@ -1,9 +1,8 @@
+<!doctype html>
 <html>
-
-<head>
-
-    <title> Koberl at Blue </title>
-</head>
+    <head>
+        <title> Koberl at Blue </title>
+    </head>
 
 <body>
 
@@ -11,13 +10,14 @@
 
 <h2> Appetizers </h2>
 
-Tempura Fried
-
-with lemon soy aioli and wasabi tobiko
+<h3> Tempura Fried </h3>
+<ul>
+<li> with lemon soy aioli and wasabi tobiko </li>
 
 $16.00
+</ul>
 
-Seared Sea Scallops
+<h3> Seared Sea Scallops </h3>
 
 with artichoke duxelle, bacon brown butter and radish sprouts or seasoned with hiwa kai sea salt on edamame puree with citrus vinaigrette
 
@@ -47,7 +47,7 @@ salad of shitake mushrooms, orange and field greens in sherry dressing
 
 $14.00
 
-Salads
+<h2> Salads </h2>
 
 Butter Leaf and Fuji Apple
 
@@ -69,7 +69,7 @@ $9.00
 
  
 
-Entrees
+<h2> Entrees </h2>
 
 Pan Roasted Chicken Breast
 
@@ -107,7 +107,7 @@ roasted fingerling potatoes, corn, fava beans, cipollini, pancetta and watercres
 
 $25.00
 
-Dessert
+<h2> Dessert </h2>
 
 Dark Chocolate Mousse
 
