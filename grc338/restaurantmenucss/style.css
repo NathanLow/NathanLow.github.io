@@ -12,14 +12,12 @@ h1
   font-size: 3em;
   font-family: serif;
   text-transform: uppercase;
-  text-align: center;
 }
 
 h2
 {
   font-size: 2em;
   font-family: sans-serif; 
-  text-align: center;
   background-color: rgb(255,220,115);
   padding: 0.3em;
 }
