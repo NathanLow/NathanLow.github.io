@@ -3,27 +3,53 @@
 body
 {
   background-color: rgb(250,250,250);
+  text-align: center;
 }
+
 h1
 {
   color: rgb(255,207,64);
   font-size: 3em;
-  font-family: cursive;
+  font-family: serif;
+  text-transform: uppercase;
+  text-align: center;
 }
+
 h2
 {
   font-size: 2em;
-  font-family: Proxima Nova; 
+  font-family: sans-serif; 
+  background-color: rgb(255,220,115);
+  text-align: center;
 }
+
 h3
 {
   color: rgb(79,91,102);
   font-size: 1em;
-  font-family: Proxima Nova;
-}
-h4
-{
-  font-family: Proxima Nova;
+  font-family: sans-serif;
+  text-transform: uppercase;
 }
 
+h4
+{
+  font-family: sans-serif;
+}
+
+ul
+{
+  list-style: none;
+  padding: 0;
+}
+
+li
+{
+  margin: 2em 2em 2em 2em;
+}
+
+.price
+{
+  font-style: bold;
+}
+  
   
