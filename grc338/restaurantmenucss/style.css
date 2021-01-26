@@ -19,8 +19,8 @@ h2
 {
   font-size: 2em;
   font-family: sans-serif; 
-  background-color: rgb(255,220,115);
   text-align: center;
+  background-color: rgb(255,220,115);
 }
 
 h3
@@ -44,7 +44,7 @@ ul
 
 li
 {
-  margin: 2em 2em 2em 2em;
+  margin: 2em;
 }
 
 .price
