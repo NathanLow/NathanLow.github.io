@@ -9,5 +9,16 @@ h1
 
 h2
 {
-  color: rgb(0,220,0);
+  font-family: Proxima Nova;
 }
+h3
+{
+  color: rgb(79,91,102);
+  font-family: Proxima Nova;
+}
+h4
+{
+  color: rgb(167,173,186);
+  font-family: Proxima Nova;
+}
+  
