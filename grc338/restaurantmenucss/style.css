@@ -12,11 +12,13 @@ h1
 }
 h2
 {
-  font-family: Proxima Nova;
+  font-size: 2em;
+  font-family: Proxima Nova; 
 }
 h3
 {
   color: rgb(79,91,102);
+  font-size: 1em;
   font-family: Proxima Nova;
 }
 h4
