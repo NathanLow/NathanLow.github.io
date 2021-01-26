@@ -17,16 +17,17 @@ h1
 
 h2
 {
-  font-size: 2em;
+  font-size: 2.5em;
   font-family: sans-serif; 
   text-align: center;
   background-color: rgb(255,220,115);
+  padding: 0.5em;
 }
 
 h3
 {
   color: rgb(79,91,102);
-  font-size: 1em;
+  font-size: 2em;
   font-family: sans-serif;
   text-transform: uppercase;
 }
@@ -49,7 +50,7 @@ li
 
 .price
 {
-  font-style: bold;
+  font-weight: bold;
 }
   
   
