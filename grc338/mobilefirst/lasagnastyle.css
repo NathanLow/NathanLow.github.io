@@ -3,16 +3,25 @@
 body
 {
    background-color: rgb(208, 204, 203);
+   font-family: helvetica;
 }
 
 h1
 {
-   color: white;
+   color: rgb(50, 39, 33);
    text-align: center;
+   font-family: Proxima Nova;
+}
+h2
+{
+   color: rgb(90, 43, 10);
+	text-align: center;
+   margin: 1.5em;
 }
 
 p 
 {
+
    font-family: sans-serif;
    font-size: 20px;
 }
