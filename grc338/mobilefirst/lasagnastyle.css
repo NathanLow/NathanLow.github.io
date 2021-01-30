@@ -1,15 +1,18 @@
-<style>
-	body {
-  	background-color: lightblue;
-	}
+/* CSS DOCUMENT */
 
-	h1 {
-  	color: white;
- 	text-align: center;
-	}
+body
+{
+   background-color: rgb(208, 204, 203);
+}
 
-	p {
-  	font-family: verdana;
-  	font-size: 20px;
-	}
-</style>
+h1
+{
+   color: white;
+   text-align: center;
+}
+
+p 
+{
+   font-family: sans-serif;
+   font-size: 20px;
+}
