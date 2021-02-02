@@ -2,10 +2,15 @@
 
 body
 {
-   background-color: rgb(208, 204, 203);
+   background-color: rgb(229, 229, 229);
    font-family: helvetica;
 }
 
+header
+{
+   text-align: center;
+   padding-bottom: 1em;
+}
 h1
 {
    color: rgb(50, 39, 33);
@@ -17,6 +22,12 @@ h2
 {
    color: rgb(90, 43, 10);
    margin: 1.5em;
+}
+
+figcaption
+{
+   color: rgb(198, 195, 190);
+   font-size: 1em;
 }
 
 img
