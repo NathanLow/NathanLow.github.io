@@ -10,14 +10,16 @@ body
    background-color: rgb(229, 229, 229);
    font-family: helvetica;
 }
-
+header
+{
+   padding: 0.75em;
+}
 h1
 {
    color: rgb(50, 39, 33);
    font-family: Proxima Nova;
    margin: 1.25em;
 }
-
 h2
 {
    color: rgb(90, 43, 10);
@@ -34,7 +36,6 @@ figcaption
    font-size: 1em;
    font-family: sans-serif;
 }
-
 img
 {
    width: 100%
