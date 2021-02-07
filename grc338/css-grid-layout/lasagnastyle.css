@@ -2,8 +2,6 @@
 
 div.container
 {
-   display: grid;
-   grid-template-columns: 75% auto; /*means auto is 25% in this case*/
    max-width: 40em;
    margin: auto;
 }
@@ -34,6 +32,11 @@ h6
 main
 {
    grid-column: 50% auto;
+}
+figure
+{
+   display: grid;
+   grid-template-columns: 75% auto; /*means auto is 25% in this case*/
 }
 figcaption
 {
