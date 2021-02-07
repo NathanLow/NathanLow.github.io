@@ -18,14 +18,18 @@ header
 }
 h1
 {
-   color: rgb(50, 39, 33);
+   color: rgb(117, 44, 26);
    font-family: Proxima Nova;
    margin: 1.25em;
 }
 h2
 {
-   color: rgb(90, 43, 10);
+   color: rgb(155, 69, 30);
    margin: 1.5em;
+}
+h6
+{
+   background-color: rgb(163, 160, 131);
 }
 main
 {
@@ -33,7 +37,7 @@ main
 }
 figcaption
 {
-   background-color: rgb(198, 195, 190);
+   background-color: rgb(245, 215, 161);
    font-size: 1em;
    font-family: sans-serif;
    padding: 1em;
