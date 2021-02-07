@@ -2,6 +2,8 @@
 
 div.container
 {
+   display: grid;
+   grid-template-columns: 75% auto; /*means auto is 25% in this case*/
    max-width: 40em;
    margin: auto;
 }
@@ -12,7 +14,7 @@ body
 }
 header
 {
-   padding: 0.75em;
+   padding: 0.25em;
 }
 h1
 {
@@ -25,16 +27,16 @@ h2
    color: rgb(90, 43, 10);
    margin: 1.5em;
 }
-figure
+main
 {
-   display: grid;
-   grid-template-columns: 70% auto; /*means auto is 30% in this case*/
+   grid-column: 50% auto;
 }
 figcaption
 {
    background-color: rgb(198, 195, 190);
    font-size: 1em;
    font-family: sans-serif;
+   padding: 1em;
 }
 img
 {
