@@ -1,15 +1,17 @@
 /* CSS DOCUMENT */
 
+div.container
+{
+    max-width: 40em;
+    margin: auto;
+}
+
 body
 {
    background-color: rgb(229, 229, 229);
    font-family: helvetica;
 }
 
-header
-{
-   text-align: center;
-}
 h1
 {
    color: rgb(50, 39, 33);
