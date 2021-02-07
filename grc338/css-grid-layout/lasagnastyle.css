@@ -31,7 +31,9 @@ h6
 }
 main
 {
-   grid-column: 50% auto;
+   display: grid;
+   grid-template-columns: 50% auto;
+   margin: auto;
 }
 figure
 {
