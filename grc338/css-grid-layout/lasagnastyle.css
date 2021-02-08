@@ -18,12 +18,16 @@ h1
 {
    color: rgb(117, 44, 26);
    font-family: Proxima Nova;
-   margin: 1.25em;
+   margin: 1.5em;
 }
 h2
 {
    color: rgb(155, 69, 30);
    margin: 1.5em;
+}
+h3
+{
+   color: rgb(155, 69, 30);
 }
 h6
 {
@@ -32,8 +36,7 @@ h6
 main
 {
    display: grid;
-   grid-template-columns: 50% auto;
-   margin: auto;
+   grid-template-columns: 50% 50%;
 }
 figure
 {
