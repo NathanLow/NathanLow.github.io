@@ -1,5 +1,7 @@
 /*CSS DOCUMENT*/
 
+@import url("https://use.typekit.net/zsm0qxb.css");
+   
 div.container
 {
    max-width: 60em;
@@ -8,7 +10,6 @@ div.container
 body
 {
    background-color: rgb(229, 229, 229);
-   font-family: helvetica;
 }
 header
 {
@@ -17,7 +18,6 @@ header
 h1
 {
    color: rgb(117, 44, 26);
-   font-family: Proxima Nova;
    margin: 1.5em;
 }
 h2
