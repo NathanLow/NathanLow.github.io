@@ -1,0 +1,77 @@
+/*CSS DOCUMENT*/
+@import url("https://use.typekit.net/zsm0qxb.css");
+
+img {
+    width: 100%; 
+}
+
+body{
+    background-color: rgb(21,21,21);
+    font-family: "Proxima Nova", sans-serif;
+    color: rgb(255,255,255);
+}
+nav ul{
+    background-color: rgb(41,41,41);
+    padding: 1em;
+    margin-bottom: 1.5em;
+}
+nav ul li{
+    display: inline;
+    list-style-type: none;
+    margin-right: 3em;
+    font-weight: bold;
+    font-size: 1.5em;
+
+}
+nav ul li a{
+    color: rgb(255,255,255);
+    text-decoration: none;   
+}
+nav ul li a:hover{
+    color: rgb(224,0,0);
+}
+
+footer{
+    text-align: center; 
+    font-family: sans-serif;
+    color: rgb(0,150,0);
+    padding: 0.4em;
+    margin-top: 2em;
+    background-color: rgb(41,41,41);
+    text-transform: uppercase;
+    font-size: .75em;
+}
+
+h2{
+    color: rgb(224,0,0);
+}
+
+h3{
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+.price{
+    font-weight: bold;
+}
+
+.dinein{
+    border-bottom: double rgb(224,0,0);
+    margin: 1.5em;
+    padding: 0.5em;
+    max-width: 50em;
+}
+
+.dessert{
+    border-bottom: double rgb(224,0,0);
+    margin: 1.5em;
+    padding: 0.5em;
+    max-width: 50em;
+}
+
+.beverages{
+    margin: 1.5em;
+    padding: 0.5em;
+}
+
+/*Please don’t change this CSS stylesheet for the content hierarchy assginment */
