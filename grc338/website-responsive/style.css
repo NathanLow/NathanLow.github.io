@@ -1,4 +1,4 @@
- /*CSS DOCUMENT*/
+/*CSS DOCUMENT*/
 @import url("https://use.typekit.net/zsm0qxb.css");
 
 img {
@@ -10,28 +10,24 @@ body{
     font-family: "Proxima Nova", sans-serif;
     color: rgb(255,255,255);
 }
-
 nav ul{
     background-color: rgb(41,41,41);
     padding: 1em;
     margin-bottom: 1.5em;
     text-align: center;
 }
-
 nav ul li{
     display: inline;
     list-style-type: none;
-    margin-left: 4em;
-    margin-right: 4em;
+    margin-left: 1em;
+    margin-right: 1em;
     font-weight: bold;
-    font-size: 1.5em;
+    font-size: 1.2em;
 }
-
 nav ul li a{
     color: rgb(255,255,255);
     text-decoration: none;   
 }
-
 nav ul li a:hover{
     color: rgb(224,0,0);
 }
@@ -91,17 +87,23 @@ article{
     display: grid;
     grid-template-columns: 50% auto;
 }
-
 iframe{
     width: 100%;
 }
-
 @media screen and (min-width: 60em){
 
 	div.container{
 	max-width: 70em;
 	margin: auto;
     }
+    nav ul li{
+    display: inline;
+    list-style-type: none;
+    margin-left: 4em;
+    margin-right: 4em;
+    font-weight: bold;
+    font-size: 1.5em;
+}
     
 }
 /*Please don’t change this CSS stylesheet for the content hierarchy assginment */
